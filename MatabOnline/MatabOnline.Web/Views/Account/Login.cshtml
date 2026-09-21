@@ -1,0 +1,41 @@
+@model LoginViewModel
+@{
+    ViewData["Title"] = "ورود به پنل مدیریت";
+}
+
+<main class="register-page">
+    <div class="register-container">
+        <div class="card register-card">
+            <div class="register-header">
+                <div class="register-icon">🔐</div>
+                <h1>ورود به پنل مدیریت</h1>
+                <p>برای دسترسی به پنل مدیریت وارد شوید.</p>
+            </div>
+
+            <form asp-controller="Account" asp-action="Login" method="post">
+                <input type="hidden" asp-for="ReturnUrl" />
+
+                <div asp-validation-summary="ModelOnly" class="alert alert-error"></div>
+
+                <label asp-for="Email"></label>
+                <input asp-for="Email" placeholder="example@email.com" />
+                <span asp-validation-for="Email" class="field-error"></span>
+
+                <label asp-for="Password"></label>
+                <input asp-for="Password" placeholder="رمز عبور خود را وارد کنید" />
+                <span asp-validation-for="Password" class="field-error"></span>
+
+                <button type="submit" class="btn register-btn">ورود</button>
+            </form>
+
+            <div class="login-link">
+                <p>حساب کاربری ندارید؟</p>
+                <a asp-controller="Account" asp-action="Register">ثبت‌نام</a>
+            </div>
+        </div>
+    </div>
+</main>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

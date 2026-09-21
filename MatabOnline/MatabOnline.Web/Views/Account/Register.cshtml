@@ -1,0 +1,70 @@
+@model RegisterViewModel
+@{
+    ViewData["Title"] = "ثبت‌نام";
+    Layout = null; // this page has its own header/footer, matching your original register.html exactly
+}
+
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>ثبت‌نام | سامانه پزشکان</title>
+    <link rel="stylesheet" href="~/style.css" />
+</head>
+<body>
+    <header>
+        <div class="container nav">
+            <h2 class="logo">🩺 سامانه پزشکان</h2>
+            <nav><a asp-controller="Home" asp-action="Index">صفحه اصلی</a></nav>
+        </div>
+    </header>
+
+    <main class="register-page">
+        <div class="register-container">
+            <div class="card register-card">
+                <div class="register-header">
+                    <div class="register-icon">👤</div>
+                    <h1>ایجاد حساب کاربری</h1>
+                    <p>اطلاعات خود را وارد کنید تا حساب کاربری شما ایجاد شود.</p>
+                </div>
+
+                <form asp-controller="Account" asp-action="Register" method="post">
+                    <div asp-validation-summary="ModelOnly" class="alert alert-error"></div>
+
+                    <label asp-for="FullName"></label>
+                    <input asp-for="FullName" placeholder="مثلاً علی احمدی" />
+                    <span asp-validation-for="FullName" class="field-error"></span>
+
+                    <label asp-for="NCode"></label>
+                    <input asp-for="NCode" placeholder="کد ملی باید ده رقمی باشد" inputmode="numeric" maxlength="10" />
+                    <span asp-validation-for="NCode" class="field-error"></span>
+
+                    <label asp-for="Email"></label>
+                    <input asp-for="Email" placeholder="example@email.com" />
+                    <span asp-validation-for="Email" class="field-error"></span>
+
+                    <label asp-for="Password"></label>
+                    <input asp-for="Password" placeholder="رمز عبور خود را وارد کنید" />
+                    <span asp-validation-for="Password" class="field-error"></span>
+
+                    <label asp-for="ConfirmPassword"></label>
+                    <input asp-for="ConfirmPassword" placeholder="رمز عبور را دوباره وارد کنید" />
+                    <span asp-validation-for="ConfirmPassword" class="field-error"></span>
+
+                    <button type="submit" class="btn register-btn">ثبت‌نام</button>
+                </form>
+
+                <div class="login-link">
+                    <p>قبلاً ثبت‌نام کرده‌اید؟</p>
+                    <a asp-controller="Home" asp-action="Index">بازگشت به صفحه اصلی</a>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <footer><p>© ۲۰۲۶ سامانه پزشکان</p></footer>
+
+    @await Html.PartialAsync("_ValidationScriptsPartial")
+</body>
+</html>

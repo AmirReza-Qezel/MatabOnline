@@ -1,0 +1,81 @@
+@model IReadOnlyList<DoctorDto>
+@{
+    ViewData["Title"] = "رزرو نوبت";
+}
+
+<section id="doctors" class="section">
+    <h2>👨‍⚕️ پزشکان</h2>
+    <div class="doctor-grid">
+        @foreach (var doctor in Model)
+        {
+            <div class="card doctor-card">
+                <h3>@doctor.FullName</h3>
+                <p>@doctor.Specialty</p>
+                <p>@doctor.Info</p>
+                <p>📞 @doctor.ClinicPhoneNumber</p>
+            </div>
+        }
+    </div>
+</section>
+
+<section id="appointment" class="section">
+    <h2>📅 درخواست نوبت</h2>
+
+    @if (TempData["AppointmentSuccess"] is string success)
+    {
+        <p class="alert alert-success">@success</p>
+    }
+    @if (TempData["AppointmentError"] is string error)
+    {
+        <p class="alert alert-error">@error</p>
+    }
+
+    <div class="card form-card">
+        <form asp-controller="Home" asp-action="BookAppointment" method="post">
+            <label>نام پزشک</label>
+            <select name="DoctorId" required>
+                <option value="">-- انتخاب کنید --</option>
+                @foreach (var doctor in Model)
+                {
+                    <option value="@doctor.Id">@doctor.FullName - @doctor.Specialty</option>
+                }
+            </select>
+
+            <label>نام بیمار</label>
+            <input type="text" name="PatientName" placeholder="نام و نام خانوادگی" required />
+
+            <label>شماره تماس</label>
+            <input type="tel" name="PatientPhoneNumber" placeholder="0912..." required />
+
+            <label>تاریخ مورد نظر</label>
+            <input type="date" name="AppointmentDate" required />
+
+            <button type="submit" class="btn">ثبت درخواست نوبت</button>
+        </form>
+    </div>
+</section>
+
+<section id="contact" class="section">
+    <h2>✉️ تماس با ما</h2>
+
+    @if (TempData["ContactSuccess"] is string contactSuccess)
+    {
+        <p class="alert alert-success">@contactSuccess</p>
+    }
+    @if (TempData["ContactError"] is string contactError)
+    {
+        <p class="alert alert-error">@contactError</p>
+    }
+
+    <div class="card form-card">
+        <form asp-controller="Home" asp-action="SendContactMessage" method="post">
+            <label>نام</label>
+            <input type="text" name="FullName" required />
+            <label>ایمیل</label>
+            <input type="email" name="Email" required />
+            <label>پیام</label>
+            <textarea name="Message" required></textarea>
+            <button type="submit" class="btn">ارسال پیام</button>
+        </form>
+    </div>
+</section>

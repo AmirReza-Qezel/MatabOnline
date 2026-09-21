@@ -3,13 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\MatabOnline\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\doctoragg\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\appointmentagg\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CF858EE3-FC06-4E83-B979-F93A91833222}|MatabOnline.Web\\MatabOnline.Web.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\matabonline\\matabonline.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF858EE3-FC06-4E83-B979-F93A91833222}|MatabOnline.Web\\MatabOnline.Web.csproj|solutionrelative:matabonline.web\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\contactmessageagg\\contactmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
@@ -19,6 +14,16 @@
     },
     {
       "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF858EE3-FC06-4E83-B979-F93A91833222}|MatabOnline.Web\\MatabOnline.Web.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\matabonline\\matabonline.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CF858EE3-FC06-4E83-B979-F93A91833222}|MatabOnline.Web\\MatabOnline.Web.csproj|solutionrelative:matabonline.web\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\doctoragg\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EDF4FACE-EA45-409F-8F56-FD23765BF879}|..\\Domain\\Domain.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\domain\\appointmentagg\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -28,7 +33,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -36,33 +41,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ContactMessage.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\ContactMessageAgg\\ContactMessage.cs",
-              "RelativeDocumentMoniker": "..\\Domain\\ContactMessageAgg\\ContactMessage.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\ContactMessageAgg\\ContactMessage.cs",
-              "RelativeToolTip": "..\\Domain\\ContactMessageAgg\\ContactMessage.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBYAAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T12:55:33.74Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "AdminUser.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Infrastructure\\Identity\\AdminUser.cs",
               "RelativeDocumentMoniker": "..\\Infrastructure\\Identity\\AdminUser.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Infrastructure\\Identity\\AdminUser.cs",
               "RelativeToolTip": "..\\Infrastructure\\Identity\\AdminUser.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T12:37:31.985Z",
+              "WhenOpened": "2026-09-18T15:14:06.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\MatabOnline\\MatabOnline.Web\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "MatabOnline.Web\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\MatabOnline\\MatabOnline.Web\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "MatabOnline.Web\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwD8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-18T15:05:54.307Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\MatabOnline\\MatabOnline.Web\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "MatabOnline.Web\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\MatabOnline\\MatabOnline.Web\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "MatabOnline.Web\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-18T15:10:23.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContactMessage.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\ContactMessageAgg\\ContactMessage.cs",
+              "RelativeDocumentMoniker": "..\\Domain\\ContactMessageAgg\\ContactMessage.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\ContactMessageAgg\\ContactMessage.cs",
+              "RelativeToolTip": "..\\Domain\\ContactMessageAgg\\ContactMessage.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAwwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-31T12:55:33.74Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "..\\Domain\\Common\\BaseEntity.cs",
@@ -74,7 +102,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Appointment.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\AppointmentAgg\\Appointment.cs",
               "RelativeDocumentMoniker": "..\\Domain\\AppointmentAgg\\Appointment.cs",
@@ -82,34 +110,19 @@
               "RelativeToolTip": "..\\Domain\\AppointmentAgg\\Appointment.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAswCMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T12:02:49.264Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T12:02:49.264Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Doctor.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\DoctorAgg\\Doctor.cs",
               "RelativeDocumentMoniker": "..\\Domain\\DoctorAgg\\Doctor.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\DoctorAgg\\Doctor.cs",
               "RelativeToolTip": "..\\Domain\\DoctorAgg\\Doctor.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAA9wCYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAA5wCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-31T11:54:21.998Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Domain.csproj",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\Domain.csproj",
-              "RelativeDocumentMoniker": "..\\Domain\\Domain.csproj",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\Domain\\Domain.csproj",
-              "RelativeToolTip": "..\\Domain\\Domain.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-08-31T11:52:16.028Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-31T11:54:21.998Z"
             }
           ]
         }

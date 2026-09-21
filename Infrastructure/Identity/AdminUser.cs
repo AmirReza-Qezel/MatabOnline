@@ -9,7 +9,7 @@ namespace Domain.AdminUserAgg
 {
     public class AdminUser : IdentityUser
     {
-        protected AdminUser() { }
+        public AdminUser() { }
         public string FirstName { get; set; } = string.Empty;
         public string LastName { get; set; } = string.Empty;
         public string NCode { get; set; } = string.Empty;

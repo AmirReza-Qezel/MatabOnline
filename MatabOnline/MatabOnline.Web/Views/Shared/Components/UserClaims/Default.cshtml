@@ -1,0 +1,15 @@
+@model (string userId, IReadOnlyList<UserClaimDto> claims)
+
+<form asp-controller="Admin" asp-action="UpdateUserClaims" method="post">
+    <input type="hidden" name="userId" value="@Model.userId" />
+    <div class="claims">
+        @foreach (var claim in Model.claims)
+        {
+            <label>
+                <input type="checkbox" name="grantedPermissions" value="@claim.ClaimValue" @(claim.IsGranted ? "checked" : "") />
+                @claim.ClaimValue
+            </label>
+        }
+    </div>
+    <button type="submit" class="btn btn-sm">ذخیره دسترسی‌ها</button>
+</form>

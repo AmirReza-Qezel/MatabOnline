@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35506.116 d17.12
+VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "MatabOnline.Domain", "MatabOnline.Domain", "{5C0DBFA0-84ED-405A-BB92-19F4016696A4}"
 EndProject
@@ -14,6 +14,10 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "..\Domain\Domain.csproj", "{EDF4FACE-EA45-409F-8F56-FD23765BF879}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Infrastructure", "..\Infrastructure\Infrastructure.csproj", "{2BD6CBF5-6677-403C-9A75-E6931BA7211B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatabOnline.Web", "MatabOnline.Web\MatabOnline.Web.csproj", "{CF858EE3-FC06-4E83-B979-F93A91833222}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Application", "Application\Application.csproj", "{96A229A7-E590-45C9-949F-FC9DFA8AAF1C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,6 +33,14 @@ Global
 		{2BD6CBF5-6677-403C-9A75-E6931BA7211B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2BD6CBF5-6677-403C-9A75-E6931BA7211B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2BD6CBF5-6677-403C-9A75-E6931BA7211B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF858EE3-FC06-4E83-B979-F93A91833222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF858EE3-FC06-4E83-B979-F93A91833222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF858EE3-FC06-4E83-B979-F93A91833222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF858EE3-FC06-4E83-B979-F93A91833222}.Release|Any CPU.Build.0 = Release|Any CPU
+		{96A229A7-E590-45C9-949F-FC9DFA8AAF1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{96A229A7-E590-45C9-949F-FC9DFA8AAF1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{96A229A7-E590-45C9-949F-FC9DFA8AAF1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{96A229A7-E590-45C9-949F-FC9DFA8AAF1C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -36,5 +48,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{EDF4FACE-EA45-409F-8F56-FD23765BF879} = {5C0DBFA0-84ED-405A-BB92-19F4016696A4}
 		{2BD6CBF5-6677-403C-9A75-E6931BA7211B} = {5EB3A66F-86C5-4C2D-837F-86479D23B985}
+		{CF858EE3-FC06-4E83-B979-F93A91833222} = {2EBFF845-6571-4D2B-B376-A69FF745AF1A}
+		{96A229A7-E590-45C9-949F-FC9DFA8AAF1C} = {DE1548F4-FAA6-4357-9D32-4EE68DAAD017}
 	EndGlobalSection
 EndGlobal

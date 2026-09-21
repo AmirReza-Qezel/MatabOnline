@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="fa" dir="rtl">
+<head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] | سامانه پزشکان</title>
+    <link rel="stylesheet" href="~/style.css" />
+</head>
+<body>
+    <header>
+        <div class="container nav">
+            <h2 class="logo">🩺 سامانه پزشکان</h2>
+            <nav>
+                <a asp-controller="Home" asp-action="Index">پزشکان</a>
+                <a asp-controller="Home" asp-action="Index">#about</a>
+                <a asp-controller="Home" asp-action="Index">تماس با ما</a>
+                @if (User.Identity?.IsAuthenticated == true)
+                {
+                    <a asp-controller="Admin" asp-action="Index" class="admin-link">پنل ادمین</a>
+                    <form asp-controller="Account" asp-action="Logout" method="post" style="display:inline">
+                        <button type="submit" class="btn-link">خروج</button>
+                    </form>
+                }
+                else
+                {
+                    <a asp-controller="Account" asp-action="Register">ثبت‌نام</a>
+                    <a asp-controller="Account" asp-action="Login" class="admin-link">پنل ادمین</a>
+                }
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        @RenderBody()
+    </main>
+
+    <footer>
+        <p>© ۲۰۲۶ سامانه پزشکان</p>
+        <p>تمامی حقوق محفوظ است.</p>
+    </footer>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>
