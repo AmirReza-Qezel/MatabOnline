@@ -1,4 +1,4 @@
-@model IReadOnlyList<DoctorDto>
+@model HomeViewModel
 @{
     ViewData["Title"] = "رزرو نوبت";
 }
@@ -6,7 +6,7 @@
 <section id="doctors" class="section">
     <h2>👨‍⚕️ پزشکان</h2>
     <div class="doctor-grid">
-        @foreach (var doctor in Model)
+        @foreach (var doctor in Model.Doctors)
         {
             <div class="card doctor-card">
                 <h3>@doctor.FullName</h3>
@@ -32,23 +32,29 @@
 
     <div class="card form-card">
         <form asp-controller="Home" asp-action="BookAppointment" method="post">
-            <label>نام پزشک</label>
-            <select name="DoctorId" required>
+            @Html.AntiForgeryToken()
+
+            <label asp-for="AppointmentForm.DoctorId">نام پزشک</label>
+            <select asp-for="AppointmentForm.DoctorId" required>
                 <option value="">-- انتخاب کنید --</option>
-                @foreach (var doctor in Model)
+                @foreach (var doctor in Model.Doctors)
                 {
                     <option value="@doctor.Id">@doctor.FullName - @doctor.Specialty</option>
                 }
             </select>
+            <span asp-validation-for="AppointmentForm.DoctorId" class="text-danger"></span>
 
-            <label>نام بیمار</label>
-            <input type="text" name="PatientName" placeholder="نام و نام خانوادگی" required />
+            <label asp-for="AppointmentForm.PatientName">نام بیمار</label>
+            <input asp-for="AppointmentForm.PatientName" placeholder="نام و نام خانوادگی" required />
+            <span asp-validation-for="AppointmentForm.PatientName" class="text-danger"></span>
 
-            <label>شماره تماس</label>
-            <input type="tel" name="PatientPhoneNumber" placeholder="0912..." required />
+            <label asp-for="AppointmentForm.PatientPhoneNumber">شماره تماس</label>
+            <input asp-for="AppointmentForm.PatientPhoneNumber" placeholder="0912..." required />
+            <span asp-validation-for="AppointmentForm.PatientPhoneNumber" class="text-danger"></span>
 
-            <label>تاریخ مورد نظر</label>
-            <input type="date" name="AppointmentDate" required />
+            <label asp-for="AppointmentForm.AppointmentDate">تاریخ مورد نظر</label>
+            <input asp-for="AppointmentForm.AppointmentDate" type="date" required />
+            <span asp-validation-for="AppointmentForm.AppointmentDate" class="text-danger"></span>
 
             <button type="submit" class="btn">ثبت درخواست نوبت</button>
         </form>
@@ -69,13 +75,25 @@
 
     <div class="card form-card">
         <form asp-controller="Home" asp-action="SendContactMessage" method="post">
-            <label>نام</label>
-            <input type="text" name="FullName" required />
-            <label>ایمیل</label>
-            <input type="email" name="Email" required />
-            <label>پیام</label>
-            <textarea name="Message" required></textarea>
+            @Html.AntiForgeryToken()
+
+            <label asp-for="ContactForm.FullName">نام</label>
+            <input asp-for="ContactForm.FullName" required />
+            <span asp-validation-for="ContactForm.FullName" class="text-danger"></span>
+
+            <label asp-for="ContactForm.Email">ایمیل</label>
+            <input asp-for="ContactForm.Email" required />
+            <span asp-validation-for="ContactForm.Email" class="text-danger"></span>
+
+            <label asp-for="ContactForm.Message">پیام</label>
+            <textarea asp-for="ContactForm.Message" required></textarea>
+            <span asp-validation-for="ContactForm.Message" class="text-danger"></span>
+
             <button type="submit" class="btn">ارسال پیام</button>
         </form>
     </div>
 </section>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

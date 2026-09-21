@@ -57,9 +57,14 @@ namespace Web.Controllers
         [Authorize(Policy = Permissions.EditDoctor)]
         public async Task<IActionResult> CreateDoctor(CreateDoctorDto dto)
         {
-            if (ModelState.IsValid)
-                await _doctorService.CreateAsync(dto);
+            if (!ModelState.IsValid)
+            {
+                TempData["DoctorError"] = "اطلاعات وارد شده معتبر نیست";
+                return RedirectToAction(nameof(Index));
+            }
 
+            await _doctorService.CreateAsync(dto);
+            TempData["DoctorSuccess"] = "پزشک با موفقیت ایجاد شد";
             return RedirectToAction(nameof(Index));
         }
 

@@ -1,25 +1,7 @@
 @model RegisterViewModel
 @{
     ViewData["Title"] = "ثبت‌نام";
-    Layout = null; // this page has its own header/footer, matching your original register.html exactly
 }
-
-<!doctype html>
-<html lang="fa" dir="rtl">
-<head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>ثبت‌نام | سامانه پزشکان</title>
-    <link rel="stylesheet" href="~/style.css" />
-</head>
-<body>
-    <header>
-        <div class="container nav">
-            <h2 class="logo">🩺 سامانه پزشکان</h2>
-            <nav><a asp-controller="Home" asp-action="Index">صفحه اصلی</a></nav>
-        </div>
-    </header>
-
     <main class="register-page">
         <div class="register-container">
             <div class="card register-card">
@@ -63,8 +45,3 @@
         </div>
     </main>
 
-    <footer><p>© ۲۰۲۶ سامانه پزشکان</p></footer>
-
-    @await Html.PartialAsync("_ValidationScriptsPartial")
-</body>
-</html>
