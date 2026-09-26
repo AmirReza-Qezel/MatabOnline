@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MatabOnline.Web")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ca05b09377be2ce7bca94055dd4c50439a4e975")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70d7c2f0abb022470eb149a3c990bc1409126896")]
 [assembly: System.Reflection.AssemblyProductAttribute("MatabOnline.Web")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MatabOnline.Web")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

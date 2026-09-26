@@ -13,9 +13,9 @@
         <div class="container nav">
             <h2 class="logo">🩺 سامانه پزشکان</h2>
             <nav>
-                <a asp-controller="Home" asp-action="Index">پزشکان</a>
-                <a asp-controller="Home" asp-action="Index">درباره</a>
-                <a asp-controller="Home" asp-action="Index">تماس با ما</a>
+                <a href="/#doctors">پزشکان</a>
+                <a href="/#about">درباره</a>
+                <a href="/#contact">تماس با ما</a>
                 @if (User.Identity?.IsAuthenticated == true)
                 {
                     <a asp-controller="Admin" asp-action="Index" class="admin-link">پنل ادمین</a>
