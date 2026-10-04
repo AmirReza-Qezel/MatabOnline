@@ -1,4 +1,5 @@
 using AuthPracticing.Models.Context;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 
@@ -10,7 +11,9 @@ builder.Services.AddDbContextPool<AuthPracticingDbContext>(options =>
      {
          options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
      });
-
+builder.Services.AddIdentity<IdentityUser, IdentityRole>().
+    AddEntityFrameworkStores<AuthPracticingDbContext>()
+    .AddDefaultTokenProviders();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -27,6 +30,8 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapStaticAssets();
+app.UseAuthentication();    
+app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
