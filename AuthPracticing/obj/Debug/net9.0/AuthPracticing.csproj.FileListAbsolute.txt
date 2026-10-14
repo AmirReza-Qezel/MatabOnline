@@ -231,3 +231,4 @@ C:\Users\Technolife\source\repos\MatabOnline\AuthPracticing\obj\Debug\net9.0\ref
 C:\Users\Technolife\source\repos\MatabOnline\AuthPracticing\obj\Debug\net9.0\AuthPracticing.pdb
 C:\Users\Technolife\source\repos\MatabOnline\AuthPracticing\obj\Debug\net9.0\AuthPracticing.genruntimeconfig.cache
 C:\Users\Technolife\source\repos\MatabOnline\AuthPracticing\obj\Debug\net9.0\ref\AuthPracticing.dll
+C:\Users\Technolife\source\repos\MatabOnline\AuthPracticing\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.Google.dll

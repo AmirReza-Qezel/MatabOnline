@@ -28,7 +28,13 @@ builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
         options.Password.RequiredLength = 6;
     }).AddEntityFrameworkStores<AuthPracticingDbContext>()
     .AddDefaultTokenProviders();
-    builder.Services.AddScoped<IMessageSender,MessageSender>();
+builder.Services.AddScoped<IMessageSender, MessageSender>();
+builder.Services.AddAuthentication()
+    .AddGoogle(options =>
+    {
+        options.ClientId = builder.Configuration["Authentication:Google:ClientId"];
+        options.ClientSecret = builder.Configuration["Authentication:Google:ClientSecret"];
+    });
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -45,7 +51,7 @@ app.UseRouting();
 app.UseAuthorization();
 
 app.MapStaticAssets();
-app.UseAuthentication();    
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllerRoute(
