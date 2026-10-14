@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using Microsoft.AspNetCore.Mvc;
+using System.ComponentModel.DataAnnotations;
 
 namespace AuthPracticing.ViewModels.Account
 {
@@ -6,6 +7,7 @@ namespace AuthPracticing.ViewModels.Account
     {
         [Required]
         [Display(Name = "UserName")]
+        [Remote("IsUsernameAvailable", "Account", HttpMethod = "POST", AdditionalFields = "__RequestVerificationToken")]
         public string UserName { get; set; }
         [Required]
         [Display(Name = "Email")]

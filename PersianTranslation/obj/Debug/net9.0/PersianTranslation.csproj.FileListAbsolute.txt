@@ -1,0 +1,12 @@
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\bin\Debug\net9.0\PersianTranslation.deps.json
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\bin\Debug\net9.0\PersianTranslation.dll
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\bin\Debug\net9.0\PersianTranslation.pdb
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.AssemblyInfoInputs.cache
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.AssemblyInfo.cs
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.csproj.CoreCompileInputs.cache
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.sourcelink.json
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.dll
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\refint\PersianTranslation.dll
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\PersianTranslation.pdb
+C:\Users\Technolife\source\repos\MatabOnline\PersianTranslation\obj\Debug\net9.0\ref\PersianTranslation.dll

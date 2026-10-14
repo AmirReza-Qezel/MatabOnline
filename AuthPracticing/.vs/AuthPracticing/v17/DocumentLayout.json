@@ -7,28 +7,99 @@
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\repositories\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:repositories\\imessagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\repositories\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:repositories\\messagesender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:viewmodels\\account\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:viewmodels\\account\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\models\\context\\authpracticingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:models\\context\\authpracticingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\authpracticing.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -47,24 +118,12 @@
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\models\\context\\authpracticingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:models\\context\\authpracticingdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\employee\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -89,6 +148,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\migrations\\20260927101350_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:migrations\\20260927101350_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\migrations\\20261005192801_secondidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:migrations\\20261005192801_secondidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -98,37 +161,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T16:42:32.252Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Login.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Login.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Login.cshtml",
-              "RelativeToolTip": "Views\\Account\\Login.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T15:52:06.37Z",
-              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -138,197 +175,98 @@
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\AccountController.cs",
               "RelativeToolTip": "Controllers\\AccountController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAA7wEIAAABBAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T12:06:07.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LoginViewModel.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\LoginViewModel.cs",
-              "RelativeDocumentMoniker": "ViewModels\\Account\\LoginViewModel.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\LoginViewModel.cs",
-              "RelativeToolTip": "ViewModels\\Account\\LoginViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T12:19:59.457Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EmployeeController.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
-              "RelativeToolTip": "Controllers\\EmployeeController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBMAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T20:02:27.033Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Register.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Register.cshtml",
-              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Register.cshtml",
-              "RelativeToolTip": "Views\\Account\\Register.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-10-04T16:39:01.446Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterViewModel.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\RegisterViewModel.cs",
               "RelativeToolTip": "ViewModels\\Account\\RegisterViewModel.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAA2wAkAAABgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-27T10:57:55.363Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AuthPracticing.csproj",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\AuthPracticing.csproj",
-              "RelativeDocumentMoniker": "AuthPracticing.csproj",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\AuthPracticing.csproj",
-              "RelativeToolTip": "AuthPracticing.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-09-27T10:56:51.277Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "20260927104831_IdentityAdded.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104831_IdentityAdded.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260927104831_IdentityAdded.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104831_IdentityAdded.cs",
-              "RelativeToolTip": "Migrations\\20260927104831_IdentityAdded.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T10:48:31.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "20260927104041_init2.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104041_init2.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260927104041_init2.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104041_init2.cs",
-              "RelativeToolTip": "Migrations\\20260927104041_init2.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T10:40:41.727Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Employee.cs",
-              "RelativeDocumentMoniker": "Models\\Employee.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Employee.cs",
-              "RelativeToolTip": "Models\\Employee.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-26T19:48:43.909Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Create.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAuwEYAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-27T10:09:50.115Z"
+              "WhenOpened": "2026-10-04T16:42:32.252Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Delete.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Delete.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-27T10:09:27.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAAACEAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-26T20:24:35.309Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Index.cshtml",
-              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-27T10:10:00.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-09-26T20:09:21.16Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Views\\_ViewImports.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-09-27T09:59:46.688Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20260927101350_init.cs",
-              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927101350_init.cs",
-              "RelativeDocumentMoniker": "Migrations\\20260927101350_init.cs",
-              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927101350_init.cs",
-              "RelativeToolTip": "Migrations\\20260927101350_init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IMessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\IMessageSender.cs",
+              "RelativeDocumentMoniker": "Repositories\\IMessageSender.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\IMessageSender.cs",
+              "RelativeToolTip": "Repositories\\IMessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAABpAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-27T10:13:50.211Z"
+              "WhenOpened": "2026-10-11T11:46:53.596Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 4,
+              "Title": "MessageSender.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\MessageSender.cs",
+              "RelativeDocumentMoniker": "Repositories\\MessageSender.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\MessageSender.cs",
+              "RelativeToolTip": "Repositories\\MessageSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-11T12:09:51.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswBMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T20:02:27.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAAAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T16:39:01.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -340,19 +278,379 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Test1.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-05T20:01:12.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\Account\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\LoginViewModel.cs",
+              "RelativeToolTip": "ViewModels\\Account\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T12:19:59.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Test1.csproj.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-10-05T20:01:12.023Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 14,
+              "Title": "project.packagespec.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T20:01:11.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "project.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-10-05T20:01:11.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test1.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T20:01:12.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Test1.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-05T20:01:12.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "project.assets.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T20:01:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersianTranslation.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-05T20:01:11.773Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PersianTranslation.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-05T20:01:11.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "PersianTranslation.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T20:01:11.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PersianTranslation.csproj.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-10-05T20:01:11.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Persian.csproj.nuget.g.targets",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-05T20:01:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Persian.csproj.nuget.g.props",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2026-10-05T20:01:11.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Persian.csproj.nuget.dgspec.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-05T20:01:11.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Persian.csproj.nuget.cache",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002368|",
+              "WhenOpened": "2026-10-05T20:01:10.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "PersianIdentityErrorDescriber.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T20:01:10.621Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "PersianRequiredAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs",
+              "ToolTip": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T20:01:10.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20261005192801_secondidentity.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20261005192801_secondidentity.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261005192801_secondidentity.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20261005192801_secondidentity.cs",
+              "RelativeToolTip": "Migrations\\20261005192801_secondidentity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T19:28:02.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
               "Title": "AuthPracticingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Context\\AuthPracticingDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Context\\AuthPracticingDbContext.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Context\\AuthPracticingDbContext.cs",
               "RelativeToolTip": "Models\\Context\\AuthPracticingDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-26T20:03:28.461Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 28,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-10-04T15:52:06.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "AuthPracticing.csproj",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\AuthPracticing.csproj",
+              "RelativeDocumentMoniker": "AuthPracticing.csproj",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\AuthPracticing.csproj",
+              "RelativeToolTip": "AuthPracticing.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-27T10:56:51.277Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20260927104831_IdentityAdded.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104831_IdentityAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260927104831_IdentityAdded.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104831_IdentityAdded.cs",
+              "RelativeToolTip": "Migrations\\20260927104831_IdentityAdded.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:48:31.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20260927104041_init2.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104041_init2.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260927104041_init2.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104041_init2.cs",
+              "RelativeToolTip": "Migrations\\20260927104041_init2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:40:41.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-26T19:48:43.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Create.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:09:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:09:27.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "Views\\Employee\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T10:10:00.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-09-26T20:09:21.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-09-27T09:59:46.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20260927101350_init.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927101350_init.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260927101350_init.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927101350_init.cs",
+              "RelativeToolTip": "Migrations\\20260927101350_init.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-27T10:13:50.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
@@ -364,7 +662,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 35,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",

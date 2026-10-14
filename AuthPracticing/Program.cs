@@ -1,7 +1,9 @@
 using AuthPracticing.Models.Context;
+using AuthPracticing.Repositories;
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Options;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -11,9 +13,22 @@ builder.Services.AddDbContextPool<AuthPracticingDbContext>(options =>
      {
          options.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
      });
-builder.Services.AddIdentity<IdentityUser, IdentityRole>().
-    AddEntityFrameworkStores<AuthPracticingDbContext>()
+builder.Services.AddIdentity<IdentityUser, IdentityRole>(options =>
+    {
+        options.Password.RequiredUniqueChars = 0;
+        options.User.RequireUniqueEmail = true;
+        options.SignIn.RequireConfirmedAccount = false;
+        options.SignIn.RequireConfirmedEmail = false;
+        options.SignIn.RequireConfirmedPhoneNumber = false;
+
+        options.Password.RequireDigit = false;
+        options.Password.RequireLowercase = false;
+        options.Password.RequireUppercase = false;
+        options.Password.RequireNonAlphanumeric = false;
+        options.Password.RequiredLength = 6;
+    }).AddEntityFrameworkStores<AuthPracticingDbContext>()
     .AddDefaultTokenProviders();
+    builder.Services.AddScoped<IMessageSender,MessageSender>();
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
