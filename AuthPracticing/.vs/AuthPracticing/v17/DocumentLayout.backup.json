@@ -3,6 +3,13 @@
   "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\lozxblqp..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -17,10 +24,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\authpracticing.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -156,6 +159,12 @@
     {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\migrations\\20261005192801_secondidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:migrations\\20261005192801_secondidentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\lozxblqp..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|CodeFrame"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Technolife\\AppData\\Local\\Temp\\lozxblqp..sql||{CC5D8DF0-88F4-4BB2-9DBB-B48CEE65C30A}|ResultFrame"
     }
   ],
   "DocumentGroupContainers": [
@@ -165,7 +174,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -173,7 +182,18 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
+              "Title": "SQLQuery1.sql ",
+              "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\lozxblqp..sql",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\lozxblqp..sql",
+              "ToolTip": "SQLQuery1.sql *",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2026-10-14T21:30:11.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "AuthPracticing",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\AuthPracticing.csproj",
               "RelativeDocumentMoniker": "AuthPracticing.csproj",
@@ -185,7 +205,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AccountController.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\AccountController.cs",
               "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
@@ -198,7 +218,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -211,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Login.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Login.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
@@ -224,20 +244,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2026-09-26T20:09:21.16Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\LoginViewModel.cs",
@@ -250,7 +270,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IMessageSender.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\IMessageSender.cs",
               "RelativeDocumentMoniker": "Repositories\\IMessageSender.cs",
@@ -263,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
@@ -276,7 +296,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\ViewModels\\Account\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "ViewModels\\Account\\RegisterViewModel.cs",
@@ -289,7 +309,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "MessageSender.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\MessageSender.cs",
               "RelativeDocumentMoniker": "Repositories\\MessageSender.cs",
@@ -302,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "EmployeeController.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
               "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
@@ -315,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "Register.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Account\\Register.cshtml",
               "RelativeDocumentMoniker": "Views\\Account\\Register.cshtml",
@@ -328,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
@@ -341,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "Test1.csproj.nuget.g.targets",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.targets",
@@ -352,7 +372,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Test1.csproj.nuget.cache",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.cache",
@@ -363,7 +383,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "project.packagespec.json",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.packagespec.json",
@@ -374,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "project.nuget.cache",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.nuget.cache",
@@ -385,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Test1.csproj.nuget.dgspec.json",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.dgspec.json",
@@ -396,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "Test1.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Test1.csproj.nuget.g.props",
@@ -407,7 +427,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "project.assets.json",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\project.assets.json",
@@ -418,7 +438,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "PersianTranslation.csproj.nuget.g.targets",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.targets",
@@ -429,7 +449,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "PersianTranslation.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.g.props",
@@ -440,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "PersianTranslation.csproj.nuget.dgspec.json",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.dgspec.json",
@@ -451,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "PersianTranslation.csproj.nuget.cache",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\PersianTranslation.csproj.nuget.cache",
@@ -462,7 +482,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "Persian.csproj.nuget.g.targets",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.targets",
@@ -473,7 +493,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Persian.csproj.nuget.g.props",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.g.props",
@@ -484,7 +504,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Persian.csproj.nuget.dgspec.json",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.dgspec.json",
@@ -495,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Persian.csproj.nuget.cache",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\obj\\Persian.csproj.nuget.cache",
@@ -506,7 +526,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "PersianIdentityErrorDescriber.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\Identity\\PersianIdentityErrorDescriber.cs",
@@ -517,7 +537,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "PersianRequiredAttribute.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\AppData\\Local\\Temp\\Rar$DRa22620.10691.rartemp\\06_Identity3\\Files\\IdentitySample\\PersianTranslation\\DataAnnotations\\PersianRequiredAttribute.cs",
@@ -528,7 +548,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 43,
               "Title": "20261005192801_secondidentity.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20261005192801_secondidentity.cs",
               "RelativeDocumentMoniker": "Migrations\\20261005192801_secondidentity.cs",
@@ -541,7 +561,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "AuthPracticingDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Context\\AuthPracticingDbContext.cs",
               "RelativeDocumentMoniker": "Models\\Context\\AuthPracticingDbContext.cs",
@@ -554,7 +574,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "AuthPracticing.csproj",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\AuthPracticing.csproj",
               "RelativeDocumentMoniker": "AuthPracticing.csproj",
@@ -567,7 +587,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 40,
               "Title": "20260927104831_IdentityAdded.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104831_IdentityAdded.cs",
               "RelativeDocumentMoniker": "Migrations\\20260927104831_IdentityAdded.cs",
@@ -580,7 +600,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 41,
               "Title": "20260927104041_init2.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927104041_init2.cs",
               "RelativeDocumentMoniker": "Migrations\\20260927104041_init2.cs",
@@ -593,7 +613,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 35,
               "Title": "Employee.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Models\\Employee.cs",
               "RelativeDocumentMoniker": "Models\\Employee.cs",
@@ -606,7 +626,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 34,
               "Title": "Create.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Create.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Create.cshtml",
@@ -619,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "Delete.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Delete.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Delete.cshtml",
@@ -632,7 +652,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 36,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Index.cshtml",
@@ -645,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 39,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -658,7 +678,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 42,
               "Title": "20260927101350_init.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Migrations\\20260927101350_init.cs",
               "RelativeDocumentMoniker": "Migrations\\20260927101350_init.cs",
@@ -671,7 +691,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 38,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Details.cshtml",
@@ -684,7 +704,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 37,
               "Title": "Edit.cshtml",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Views\\Employee\\Edit.cshtml",
               "RelativeDocumentMoniker": "Views\\Employee\\Edit.cshtml",
