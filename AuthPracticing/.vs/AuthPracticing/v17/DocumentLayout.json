@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\manageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\manageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\managerolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\managerolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ManageRoleController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageRoleController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageRoleController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageRoleController.cs",
+              "RelativeToolTip": "Controllers\\ManageRoleController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAzwDoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T15:00:18.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ManageUsersController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageUsersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ManageUsersController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageUsersController.cs",
+              "RelativeToolTip": "Controllers\\ManageUsersController.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwJMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-21T15:00:02.74Z",
+              "EditorCaption": ""
             }
           ]
         }
