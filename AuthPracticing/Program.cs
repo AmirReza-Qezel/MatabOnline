@@ -35,6 +35,10 @@ builder.Services.AddAuthentication()
         options.ClientId = builder.Configuration["Authentication:Google:ClientId"];
         options.ClientSecret = builder.Configuration["Authentication:Google:ClientSecret"];
     });
+builder.Services.AddAuthorization(option =>
+{
+    option.AddPolicy("EmployeeList", policy => policy.RequireClaim(ClaimTypeStore.EmployeeList));
+});
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.

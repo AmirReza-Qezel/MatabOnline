@@ -38,16 +38,16 @@ namespace AuthPracticing.Controllers
         public async Task<IActionResult> EditUser(string id,string userName)
         {
             if (string.IsNullOrEmpty(id) || string.IsNullOrEmpty(userName)) return NotFound();
-            var user = await _roleManager.FindByIdAsync(id);
+            var user = await _userManager.FindByIdAsync(id);
             if (user == null) return NotFound();
-            user.Name = userName;
-            var result = await _roleManager.UpdateAsync(user);
+            user.UserName = userName;
+            var result = await _userManager.UpdateAsync(user);
             if (result.Succeeded) return RedirectToAction("Index");
             foreach (var error in result.Errors)
             {
                 ModelState.AddModelError(string.Empty, error.Description);
             }
-            return View();
+            return View(user);
         }
         [HttpGet]
         public async Task<IActionResult> AddUserToRole(string id)
@@ -163,7 +163,7 @@ namespace AuthPracticing.Controllers
         [HttpGet]
         public async Task<IActionResult> AddUserToClaim(string id)
         {
-            if (!string.IsNullOrEmpty(id)) return NotFound();
+            if (string.IsNullOrEmpty(id)) return NotFound();
             var user = await _userManager.FindByIdAsync(id);
             if (user == null) return NotFound();
             var allClaims = ClaimStore.AllClaims;
@@ -185,7 +185,7 @@ namespace AuthPracticing.Controllers
             if(user == null) return NotFound();
             var requestClaims = model.UserClaims.Where(r => r.IsSelected)
                 .Select(u => new Claim(u.ClaimType, true.ToString())).ToList();
-            var result = await _userManager.AddClaimAsync(user, requestClaims);
+            var result = await _userManager.AddClaimsAsync(user, requestClaims);
             if (result.Succeeded) return RedirectToAction("Index");
             foreach (var error in result.Errors)
             {
@@ -197,7 +197,7 @@ namespace AuthPracticing.Controllers
         [HttpGet]
         public async Task<IActionResult> RemoveUserFromClaim(string id)
         {
-            if (!string.IsNullOrEmpty(id)) return NotFound();
+            if (string.IsNullOrEmpty(id)) return NotFound();
             var user = await _userManager.FindByIdAsync(id);
             if (user == null) return NotFound();
             var allClaims = ClaimStore.AllClaims;
@@ -219,9 +219,7 @@ namespace AuthPracticing.Controllers
             if (user == null) return NotFound();
             var requestClaims = model.UserClaims.Where(r => r.IsSelected)
                 .Select(u => new Claim(u.ClaimType, true.ToString())).ToList();
-            object result;
-            foreach (var claim in requestClaims)
-                 result = await _userManager.RemoveClaimAsync(user, claim);
+                 var result = await _userManager.RemoveClaimsAsync(user, requestClaims);
 
             if (result.Succeeded) return RedirectToAction("Index");
             foreach (var error in result.Errors)

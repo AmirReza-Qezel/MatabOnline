@@ -17,6 +17,7 @@ namespace AuthPracticing.Controllers
         }
 
         // GET: Employee
+        [Authorize(Roles = "Admin", Policy = "EmployeeList")]
         public async Task<IActionResult> Index()
         {
             return View(await _context.Employees.ToListAsync());
