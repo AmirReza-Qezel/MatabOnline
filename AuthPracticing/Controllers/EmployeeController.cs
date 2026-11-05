@@ -1,10 +1,12 @@
 ﻿using AuthPracticing.Models;
 using AuthPracticing.Models.Context;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 
 namespace AuthPracticing.Controllers
 {
+    [Authorize]
     public class EmployeeController : Controller
     {
         private readonly AuthPracticingDbContext _context;

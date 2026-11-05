@@ -7,8 +7,20 @@
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\manageuserscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\controllers\\managerolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:controllers\\managerolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\repositories\\claimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:repositories\\claimstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|c:\\users\\technolife\\source\\repos\\matabonline\\authpracticing\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0069A0E-43B8-4DCD-BFE5-8D5C17FB976D}|AuthPracticing.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,13 +38,51 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimStore.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\ClaimStore.cs",
+              "RelativeDocumentMoniker": "Repositories\\ClaimStore.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Repositories\\ClaimStore.cs",
+              "RelativeToolTip": "Repositories\\ClaimStore.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-04T20:29:09.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-24T10:24:15.641Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "Controllers\\EmployeeController.cs",
+              "ViewState": "AgIAAG0AAAAAAAAAAAAwwEgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-24T10:05:38.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "ManageRoleController.cs",
               "DocumentMoniker": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageRoleController.cs",
               "RelativeDocumentMoniker": "Controllers\\ManageRoleController.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageRoleController.cs",
               "RelativeToolTip": "Controllers\\ManageRoleController.cs",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAzwDoAAAAKAAAAAAAAAA==",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwEgAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T15:00:18.114Z",
               "EditorCaption": ""
@@ -45,7 +95,7 @@
               "RelativeDocumentMoniker": "Controllers\\ManageUsersController.cs",
               "ToolTip": "C:\\Users\\Technolife\\source\\repos\\MatabOnline\\AuthPracticing\\Controllers\\ManageUsersController.cs",
               "RelativeToolTip": "Controllers\\ManageUsersController.cs",
-              "ViewState": "AgIAAF0AAAAAAAAAAAAAwJMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAANQAAAAAAAAAAAAAAN8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-10-21T15:00:02.74Z",
               "EditorCaption": ""
